@@ -1,0 +1,9 @@
+    /*
+
+# The XSLTviz CSS stylesheet
+
+This style’s purpose is to help one vizualize the code of an XSLT stylesheet while writing or reviewing it.
+
+XML syntax is notably verbose and, consequently, XSLT’s readability is not optimal.
+
+    */
